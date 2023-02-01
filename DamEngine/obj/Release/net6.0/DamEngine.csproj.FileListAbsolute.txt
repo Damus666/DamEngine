@@ -1,0 +1,15 @@
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\bin\Release\net6.0\DamEngine.exe
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\bin\Release\net6.0\DamEngine.deps.json
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\bin\Release\net6.0\DamEngine.runtimeconfig.json
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\bin\Release\net6.0\DamEngine.dll
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\bin\Release\net6.0\DamEngine.pdb
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.csproj.AssemblyReference.cache
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.GeneratedMSBuildEditorConfig.editorconfig
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.AssemblyInfoInputs.cache
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.AssemblyInfo.cs
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.csproj.CoreCompileInputs.cache
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.dll
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\refint\DamEngine.dll
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.pdb
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\DamEngine.genruntimeconfig.cache
+B:\VisualStudioProjects\DamEngine\DamEngine\DamEngine\obj\Release\net6.0\ref\DamEngine.dll
